@@ -1,8 +1,8 @@
 {
-  "name": "com.xekotoby.testsubmodule",
+  "name": "com.xekotoby.thangdino",
   "version": "1.2.3",
-  "displayName": "Submodule Example",
-  "description": "This is an example Submodule",
+  "displayName": "Package Example",
+  "description": "This is an example package",
   "unity": "2019.1",
   "unityRelease": "0b5",
   "documentationUrl": "https://example.com/",
